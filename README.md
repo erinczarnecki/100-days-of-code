@@ -4,8 +4,6 @@
 
 * [Rules](rules.md)
 * [Log - click here to see my progress](Daily-Log.md)
-* [Resources](resources.md)
-
 
 ### Challenge Format:
 
