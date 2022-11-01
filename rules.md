@@ -24,4 +24,3 @@ October 31, 2022
 ## Contents
 * [Rules](rules.md)
 * [Log - click here to see my progress](Daily-Log.md)
-* [Resources](resources.md)
