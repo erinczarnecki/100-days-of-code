@@ -27,3 +27,11 @@
 
 **Link(s) to work**
 1. [News Homepage Repo](https://github.com/erinczarnecki/FEM_News-Homepage)
+
+
+
+### Day 2: November 1, 2022 - Tuesday
+**Today's Progress**: My coding today centered around working with some React components for a responsive navbar. 
+
+**Thoughts**: My final Capstone project kicks off tomorrow, so I've been trying to keep the coding to more simplistic challenges so that I don't get burnt out.
+
